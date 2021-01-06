@@ -1,0 +1,22 @@
+{
+  "name": "api-toko",
+  "version": "1.0.0",
+  "description": "api untuk toko flutter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lutungp/api-toko.git"
+  },
+  "author": "lutungp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lutungp/api-toko/issues"
+  },
+  "homepage": "https://github.com/lutungp/api-toko#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
